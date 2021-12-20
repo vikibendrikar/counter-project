@@ -1,0 +1,52 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: blueviolet;
+    place-items: center;
+}
+
+#container{
+    height: 500px;
+    width: 600px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 500px;
+    
+    
+}
+#container h2{
+    color: burlywood;
+    font-size: 75px;
+    margin-left: 190px;
+    margin-top: 20px;
+
+}
+#container h1{
+    color: white;
+    font-size: 100px;
+    margin-left: 280px;
+    /* box-shadow: 2px 2px black; */
+}
+#button{
+    /* border: 1px solid black; */
+    
+    
+}
+#decrement{
+/* position: absolute; */
+margin-top: 30px;
+margin-left: 60px;
+font-size: 30px;
+background-color: darkcyan;
+box-shadow: 5px 5px black;
+}
+#increment{
+/* position: absolute; */
+margin-top: 30px;
+margin-left: 170px;
+font-size: 30px;
+background-color: darkcyan;
+box-shadow: 5px 5px black;
+}
